@@ -1,0 +1,33 @@
+﻿@model IEnumerable<TestMVC.Controllers.Result>
+@{
+    ViewBag.Title = "SortByValue";
+}
+
+
+<table border="1">
+    <tr>
+        <th>Characters</th>
+        <th>Value</th>
+        <th>Data Value</th>
+        <th>Data Location</th>
+       
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Characters)</td>
+            <td>@Html.DisplayFor(modelItem => item.Value)</td>
+
+            @foreach (var val in item.Data)
+            {
+                <td>@Html.DisplayFor(modelItem => val.Value)</td>
+                <td>@Html.DisplayFor(modelItem => val.Location)</td>
+            }
+        </tr>
+
+    }
+
+</table>  
+
+    <h2>SortByValue</h2>
+

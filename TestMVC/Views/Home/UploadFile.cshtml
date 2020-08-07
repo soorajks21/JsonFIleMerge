@@ -1,0 +1,59 @@
+﻿@model TestMVC.Models.JsonModel
+
+@{
+    ViewBag.Title = "Merge Your File";
+}
+
+@{
+   var data = ViewBag.Message;
+}
+
+
+@using (Html.BeginForm("ContactForm", "Home", FormMethod.Post, new
+{
+    enctype = "multipart/form-data"
+}))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        @Html.EditorForModel()
+        <h4>JsonModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.json1, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="json1" required />  
+            
+                @*@Html.EditorFor(model => model.json1, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.json1, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.json2, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" name="json2" required />  
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Sort By Value" name="submit" formaction="SortByValue" class="btn btn-default" formmethod="post" />
+                <input type="submit" value="Sort By Location" name="submit" formaction="SortByLocation" class="btn btn-default" formmethod="post"/>
+
+            </div>
+        </div>
+
+
+          </div>
+}
+
+<div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

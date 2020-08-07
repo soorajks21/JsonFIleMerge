@@ -1,0 +1,165 @@
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\ApplicationInsights.config
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\csc.exe
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\vbc.exe
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\TestMVC.dll.config
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\TestMVC.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\TestMVC.pdb
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Antlr3.Runtime.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\EntityFramework.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\EntityFramework.SqlServer.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.Web.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Newtonsoft.Json.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Owin.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Helpers.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Mvc.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Optimization.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Razor.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\WebGrease.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.Web.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Helpers.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Mvc.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Optimization.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.Razor.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Antlr3.Runtime.pdb
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Newtonsoft.Json.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\EntityFramework.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\EntityFramework.SqlServer.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\obj\Debug\TestMVC.dll
+c:\users\gkrishnaprasad\documents\visual studio 2015\Projects\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\ApplicationInsights.config
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\csc.exe
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\vbc.exe
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\TestMVC.dll.config
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\TestMVC.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\TestMVC.pdb
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Antlr3.Runtime.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\EntityFramework.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.Web.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Newtonsoft.Json.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Owin.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Helpers.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Mvc.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Optimization.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Razor.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\WebGrease.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.Web.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Helpers.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Mvc.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Optimization.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.Razor.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Antlr3.Runtime.pdb
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Newtonsoft.Json.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\EntityFramework.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\obj\Debug\TestMVC.csprojAssemblyReference.cache
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\obj\Debug\TestMVC.csproj.CoreCompileInputs.cache
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\obj\Debug\TestMVC.csproj.CopyComplete
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\obj\Debug\TestMVC.dll
+C:\Users\soora\tazwiz-bitbucket\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
